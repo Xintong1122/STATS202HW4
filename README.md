@@ -1,5 +1,5 @@
-# Fraud Detection in Bank Transactions - STATS202 Homework 4
-*Duke Kunshan University STATS 202 HW3*
+# Fraud Detection in Bank Transactions
+*Duke Kunshan University STATS 202 HW4*
 
 ## Project Overview
 This project implements a logistic regression model to detect fraudulent bank transactions as part of Duke Kunshan University's STATS202 coursework. The solution follows a complete machine learning workflow from data exploration to model deployment.
